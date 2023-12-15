@@ -1,0 +1,5 @@
+aiogram~=3.0
+environs~=9.0
+betterlogging~=0.2.1
+asyncpg~=0.29.0
+redis~=5.0.1
