@@ -1,6 +1,6 @@
+# 🛠This bot is currently in development🛠
 # ETH Wallet Telegram Bot
 This Telegram bot provides a user-friendly interface for securely storing and transferring Ethereum (ETH) within the Telegram platform. Easily manage your ETH assets with just a few clicks!
-
 
 ## About
 ### Features
@@ -67,6 +67,7 @@ This Telegram bot provides a user-friendly interface for securely storing and tr
     REDIS_HOST=your_redis_host
     REDIS_PORT=your_redis_port
     REDIS_PASSWORD=your_redis_password
+You can get BOT_TOKEN from [@botfather](https://t.me/botfather)
    
 4. Install the required dependencies:
     ```bash
